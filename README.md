@@ -26,14 +26,14 @@ pip install opencv-python mediapipe numpy pycaw screen-brightness-control
 
 ### Clone the Repository
 ```bash
-git clone https://yourrepository.com/gesture-control.git
-cd gesture-control
+git clone https://github.com/yourusername/Gesture-Control-Suite-Using-OpenCV-MediaPipe.git
+cd Gesture-Control-Suite-Using-OpenCV-MediaPipe
 ```
 
 ## Usage
 To run the application, navigate to the application directory and run:
 ```bash
-python gesture_control.py
+python GestureControl_Suite.py
 ```
 
 ## Functionality
