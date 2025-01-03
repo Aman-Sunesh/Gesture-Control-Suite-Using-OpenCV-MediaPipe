@@ -20,21 +20,21 @@ Download and install Python from [python.org](https://www.python.org/downloads/)
 
 ### Library Installation
 Use pip to install the required Python libraries:
-\`\`\`bash
+```bash
 pip install opencv-python mediapipe numpy pycaw screen-brightness-control
-\`\`\`
+```
 
 ### Clone the Repository
-\`\`\`bash
+```bash
 git clone https://yourrepository.com/gesture-control.git
 cd gesture-control
-\`\`\`
+```
 
 ## Usage
 To run the application, navigate to the application directory and run:
-\`\`\`bash
+```bash
 python gesture_control.py
-\`\`\`
+```
 
 ## Functionality
 
